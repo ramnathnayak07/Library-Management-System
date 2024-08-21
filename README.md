@@ -32,7 +32,7 @@ The Library Management System is secured with a layer of authentication password
 
 **Note**: This program won't run on online compilers as they don't provide libraries for FILE Management & external storing.
 
-## Screenshots 
+## Screenshots
 
 ### 01. User Management Panel
 
